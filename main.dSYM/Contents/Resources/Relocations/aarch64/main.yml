@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/tavmac/Documents/session_saver/main'
+relocations:     []
+...
